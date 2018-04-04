@@ -7,5 +7,5 @@ This starts with loading pretrained model using TensorFlow `save` and `restore`,
 
 ## References 
 Following blogs and repos are of utmost help while writing this tutorial.   
-https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0  
 https://machinelearningmastery.com/transfer-learning-for-deep-learning/
